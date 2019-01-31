@@ -4,9 +4,7 @@
 
 This repository contains the code to replicate the results published in the following paper: 
 
-```
 Z. Long, Y. Alaudah, M. Qureshi, Y. Hu, Z. Wang, M. Alfarraj, G. AlRegib, A. Amin, M. Deriche, S. Al-Dharrab, and H. Di, "A comparative study of texture attributes for characterizing subsurface structures in seismic volumes," Interpretation, vol. 6, no. 4, pp. T1055-T1066, Nov. 2018.
-```
 
 If you find this code useful, please consider citing the paper. 
 
